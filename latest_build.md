@@ -11,6 +11,4 @@ Music (arm64-v8a) version: 5.22.54
 
 Music (arm-v7a) version: 5.22.54  
 
-Twitter version: 9.58.1-release.0  
-
-Reddit version: 2022.33.0  
+TikTok version: 26.1.16  
