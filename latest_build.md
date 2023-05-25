@@ -1,16 +1,16 @@
-2023-05-23
+2023-05-25
   
 CLI: revanced-cli-2.22.0-all.jar  
-Integrations: revanced-integrations-0.107.0-v0.107.0.apk  
-Patches: revanced-patches-2.173.0.jar  
-[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.173.0)  
+Integrations: revanced-integrations-0.108.0-v0.108.0.apk  
+Patches: revanced-patches-2.174.0.jar  
+[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.174.0)  
 
-TikTok version: 29.6.4  
+TikTok version: 29.7.2  
 
-YouTube version: 18.16.37  
+YouTube version: 18.19.35  
 
-Music (arm64-v8a) version: 5.39.52  
+Music (arm64-v8a) version: 5.48.52  
 
-Music (arm-v7a) version: 5.39.52  
+Music (arm-v7a) version: 5.48.52  
 
 [revanced-magisk-module repo](https://github.com/j-hc/revanced-magisk-module)
