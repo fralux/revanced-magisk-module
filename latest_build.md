@@ -1,11 +1,11 @@
-2023-11-21
+2023-11-22
   
 CLI: revanced-cli-4.1.0-all.jar  
 Integrations: revanced-integrations-0.123.0-v0.123.0.apk  
-Patches: revanced-patches-2.199.0.jar  
-[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.199.0)  
+Patches: revanced-patches-2.200.0.jar  
+[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.200.0)  
 
-TikTok version: 32.2.18  
+TikTok version: 32.3.1  
 
 YouTube version: 18.45.41  
 
